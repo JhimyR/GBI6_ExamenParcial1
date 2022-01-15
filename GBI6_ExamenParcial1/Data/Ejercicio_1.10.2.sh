@@ -96,3 +96,4 @@ bash count_all_baboons.sh
 # ID: 2 counts: 2
 # ID: 3 counts: 61
 # ...
+
