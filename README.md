@@ -1,3 +1,4 @@
+![This is an image](https://intranet.ikiam.edu.ec/templates/rt_photon/custom/images/logo/logotipoMail.png?5da8ab13)
 # GBI6_ExamenParcial1
 ## Datos personales
 - Nombre: Jhimy Roldan Siquihua Tanguila
